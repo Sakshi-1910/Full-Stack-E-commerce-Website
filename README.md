@@ -10,7 +10,14 @@ This project allows users to browse products, add them to a cart, and place orde
 - 🛍 Browse products with search & filter<br>
 - 🛒 Shopping cart & checkout<br>
 - 💳 Payment integration (Stripe/PayPal) [if implemented]<br>
-- 📦 Order management (users can view their orders)
-- 🛠 Admin dashboard for product & order management
+- 📦 Order management (users can view their orders)<br>
+- 🛠 Admin dashboard for product & order management<br>
 - 📱 Responsive design (mobile-friendly)
 </p>
+<h2>🛠 Tech Stack
+</h2>
+<p>- *Frontend:* React.js, Redux/Context API, TailwindCSS / Bootstrap <br>
+- *Backend:* Node.js, Express.js <br>
+- *Database:* MongoDB (Atlas) <br>
+- *Authentication:* JWT, bcrypt <br>
+- *Other Tools:* Git, GitHub, Postman, dotenv</p>
