@@ -5,11 +5,11 @@ This project allows users to browse products, add them to a cart, and place orde
 </p>
 <h2> 🚀 Features</h2>
 
-<p>- 🔐 User authentication & authorization (JWT)
-- 👤 User registration & login
-- 🛍 Browse products with search & filter
-- 🛒 Shopping cart & checkout
-- 💳 Payment integration (Stripe/PayPal) [if implemented]
+<p>- 🔐 User authentication & authorization (JWT)<br>
+- 👤 User registration & login<br>
+- 🛍 Browse products with search & filter<br>
+- 🛒 Shopping cart & checkout<br>
+- 💳 Payment integration (Stripe/PayPal) [if implemented]<br>
 - 📦 Order management (users can view their orders)
 - 🛠 Admin dashboard for product & order management
 - 📱 Responsive design (mobile-friendly)
