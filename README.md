@@ -21,5 +21,26 @@ This project allows users to browse products, add them to a cart, and place orde
   Database: MongoDB (Atlas) <br>
  Authentication: JWT, bcrypt <br>
  Other Tools: Git, GitHub, Postman, dotenv</p>
+ <h2>Home Page</h2>
  <img src="homepage.jpeg" >
+ <img src="homepage2.jpeg">
+ <hr>
+ <h2>Login Page</h2>
+ <img src="loginpage.jpeg">
+ <hr>
+ <h2>Mens Shop Page</h2>
+ <img src="men.jpeg">
+ <hr>
+ <h2>Women's Shop Page</h2>
+ <img src="women.jpeg">
+ <hr>
+ <h2>Kid's Shop Page</h2>
+ <img src="kids.jpeg">
+ <hr>
+ <h2>Product Details</h2>
+ <img src="productdetails.jpeg">
+ <hr>
+ <h2>Cart Page</h2>
+ <img src="cartpage.jpeg">
+ 
  
