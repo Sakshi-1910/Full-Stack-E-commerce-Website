@@ -16,8 +16,8 @@ This project allows users to browse products, add them to a cart, and place orde
 </p>
 <h2>🛠 Tech Stack
 </h2>
-<p>- *Frontend:* React.js, Redux/Context API, TailwindCSS / Bootstrap <br>
-- *Backend:* Node.js, Express.js <br>
-- *Database:* MongoDB (Atlas) <br>
-- *Authentication:* JWT, bcrypt <br>
-- *Other Tools:* Git, GitHub, Postman, dotenv</p>
+<p>Frontend: React.js, Redux/Context API, TailwindCSS / Bootstrap <br>
+ Backend: Node.js, Express.js <br>
+  Database: MongoDB (Atlas) <br>
+ Authentication: JWT, bcrypt <br>
+ Other Tools: Git, GitHub, Postman, dotenv</p>
