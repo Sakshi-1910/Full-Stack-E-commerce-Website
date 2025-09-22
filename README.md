@@ -21,3 +21,4 @@ This project allows users to browse products, add them to a cart, and place orde
   Database: MongoDB (Atlas) <br>
  Authentication: JWT, bcrypt <br>
  Other Tools: Git, GitHub, Postman, dotenv</p>
+ [Home Page](./homepage.jpeg)
